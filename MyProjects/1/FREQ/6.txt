@@ -1,0 +1,287 @@
+********FREQUENCY COUNT*************
+
+talk : 4
+
+meet : 7
+
+issue : 2
+
+join : 5
+
+document : 5
+
+minister : 7
+
+republic : 2
+
+democracy : 1
+
+federal : 1
+
+unite : 5
+
+state : 7
+
+hold : 1
+
+round : 1
+
+parts : 9
+
+session : 1
+
+ocean : 1
+
+afar : 2
+
+peace : 2
+
+negotiate : 1
+
+depute : 1
+
+rocker : 1
+
+hug : 1
+
+depart : 1
+
+assist : 4
+
+sectarian : 1
+
+respect : 1
+
+delegate : 1
+
+attend : 1
+
+chair : 1
+
+hear : 1
+
+affirm : 1
+
+report : 1
+
+working : 4
+
+groups : 2
+
+confirm : 1
+
+implement : 2
+
+action : 3
+
+require : 1
+
+common : 2
+
+agree : 5
+
+continue : 2
+
+promote : 2
+
+consent : 3
+
+reach : 1
+
+process : 2
+
+operate : 1
+
+aim : 1
+
+way : 1
+
+achieve : 2
+
+verify : 2
+
+denuclearization : 2
+
+accord : 5
+
+exist : 1
+
+nuclear : 6
+
+facilities : 1
+
+abandon : 1
+
+goad : 1
+
+disable : 3
+
+complete : 2
+
+experiment : 1
+
+react : 1
+
+reproach : 1
+
+radio : 1
+
+labor : 1
+
+fucking : 1
+
+factor : 1
+
+specific : 3
+
+measure : 1
+
+propose : 1
+
+expert : 2
+
+accept : 1
+
+approve : 1
+
+science : 1
+
+safe : 1
+
+principle : 1
+
+internal : 1
+
+norms : 4
+
+request : 1
+
+lead : 1
+
+provide : 4
+
+fund : 1
+
+rat : 1
+
+prepare : 1
+
+overtake : 1
+
+function : 1
+
+accurate : 1
+
+declare : 2
+
+program : 1
+
+reiterate : 1
+
+do : 1
+
+transfer : 1
+
+mate : 1
+
+technology : 1
+
+commit : 2
+
+relate : 1
+
+knowledge : 1
+
+relation : 5
+
+relevant : 1
+
+country : 1
+
+focus : 1
+
+improve : 1
+
+diploma : 2
+
+side : 1
+
+strength : 1
+
+exchange : 1
+
+enhance : 1
+
+trust : 1
+
+recall : 1
+
+long : 1
+
+start : 1
+
+terror : 1
+
+procedure : 1
+
+appliance : 1
+
+terminal : 1
+
+enemy : 1
+
+act : 1
+
+full : 1
+
+promises : 1
+
+based : 2
+
+effort : 1
+
+setter : 1
+
+unfortunate : 1
+
+outspread : 1
+
+concern : 1
+
+rapid : 1
+
+undertake : 1
+
+take : 1
+
+vibrate : 1
+
+consult : 1
+
+ecologically : 3
+
+energy : 3
+
+provision : 1
+
+equivalence : 1
+
+human : 1
+
+million : 1
+
+heavy : 2
+
+include : 1
+
+form : 1
+
+cooperate : 1
+
+reaffirm : 1
+
+convene : 2
+
+discuss : 1
+
+age : 1

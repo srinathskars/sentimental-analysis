@@ -1,0 +1,83 @@
+********FREQUENCY COUNT*************
+
+delegate : 2
+
+talk : 3
+
+reach : 2
+
+importance : 2
+
+consent : 2
+
+point : 2
+
+report : 2
+
+complement : 1
+
+execute : 1
+
+assist : 1
+
+attend : 1
+
+conferred : 1
+
+hold : 1
+
+say : 1
+
+meet : 1
+
+participate : 1
+
+parts : 3
+
+necessary : 2
+
+resolve : 2
+
+nuclear : 2
+
+issue : 2
+
+peace : 2
+
+mean : 1
+
+sure : 1
+
+stable : 1
+
+denuclearization : 1
+
+secure : 1
+
+concern : 1
+
+phase : 1
+
+soluble : 1
+
+carry : 1
+
+action : 1
+
+leader : 1
+
+deteriorate : 1
+
+situated : 1
+
+express : 1
+
+hope : 1
+
+process : 1
+
+future : 1
+
+continue : 1
+
+sour : 1

@@ -1,0 +1,479 @@
+********FREQUENCY COUNT*************
+
+economy : 20
+
+win : 3
+
+nobble : 7
+
+prize : 8
+
+time : 5
+
+royal : 1
+
+academy : 3
+
+science : 3
+
+announce : 4
+
+award : 2
+
+prince : 3
+
+universe : 4
+
+picture : 1
+
+recognise : 1
+
+analyse : 1
+
+internal : 5
+
+trade : 10
+
+pattern : 2
+
+ecologically : 12
+
+activity : 2
+
+areas : 3
+
+contribute : 1
+
+aspect : 1
+
+age : 4
+
+issue : 2
+
+score : 1
+
+million : 2
+
+create : 2
+
+affect : 1
+
+predict : 1
+
+finance : 7
+
+cripes : 11
+
+assert : 1
+
+admin : 4
+
+policy : 5
+
+event : 1
+
+lead : 2
+
+popular : 1
+
+eyepiece : 1
+
+comment : 2
+
+appreciate : 1
+
+question : 1
+
+free : 2
+
+impact : 1
+
+globalization : 2
+
+drive : 1
+
+force : 1
+
+globe : 4
+
+urban : 3
+
+integer : 1
+
+previous : 2
+
+total : 1
+
+unrequited : 1
+
+research : 2
+
+based : 2
+
+make : 2
+
+goodness : 2
+
+service : 1
+
+cheap : 1
+
+preconceived : 1
+
+consume : 1
+
+varied : 1
+
+result : 2
+
+mark : 2
+
+supply : 1
+
+product : 6
+
+small : 1
+
+replace : 1
+
+local : 2
+
+tradition : 1
+
+suggest : 1
+
+differ : 2
+
+resource : 1
+
+endow : 1
+
+country : 5
+
+export : 2
+
+agriculture : 1
+
+industry : 1
+
+clarify : 1
+
+condition : 1
+
+dominant : 1
+
+publish : 2
+
+article : 3
+
+tends : 2
+
+focus : 2
+
+manufacture : 1
+
+base : 1
+
+locate : 1
+
+increase : 3
+
+pressure : 1
+
+life : 1
+
+process : 2
+
+bring : 1
+
+suck : 1
+
+region : 1
+
+format : 1
+
+high : 1
+
+technology : 1
+
+develop : 2
+
+peripheral : 1
+
+cities : 1
+
+struggle : 1
+
+infraction : 1
+
+problem : 3
+
+particle : 1
+
+environment : 1
+
+difficult : 1
+
+solve : 1
+
+pollutant : 1
+
+keel : 2
+
+sense : 2
+
+smell : 2
+
+communicate : 1
+
+report : 2
+
+overrule : 1
+
+winner : 1
+
+appanage : 1
+
+excite : 1
+
+quick : 1
+
+take : 1
+
+show : 1
+
+order : 1
+
+participate : 1
+
+conferred : 1
+
+call : 1
+
+parenthood : 1
+
+say : 7
+
+despise : 1
+
+lack : 1
+
+cafe : 1
+
+boost : 1
+
+spirit : 1
+
+trend : 1
+
+expert : 1
+
+vein : 1
+
+experience : 1
+
+equality : 1
+
+several : 1
+
+greasy : 1
+
+depress : 1
+
+unite : 2
+
+state : 2
+
+similar : 1
+
+talk : 1
+
+bail : 1
+
+effort : 2
+
+fear : 1
+
+slide : 1
+
+decrease : 1
+
+compare : 1
+
+funnies : 1
+
+thing : 1
+
+happen : 1
+
+write : 7
+
+read : 1
+
+mess : 1
+
+congrats : 1
+
+critically : 5
+
+exchange : 2
+
+rat : 3
+
+adopt : 1
+
+invest : 1
+
+earnings : 1
+
+collect : 1
+
+big : 1
+
+break : 1
+
+believe : 1
+
+term : 1
+
+cut : 1
+
+public : 1
+
+spend : 1
+
+generalization : 1
+
+deficit : 1
+
+war : 1
+
+sustain : 1
+
+final : 1
+
+strong : 2
+
+professor : 2
+
+afar : 2
+
+column : 2
+
+fortune : 1
+
+know : 1
+
+go : 1
+
+clear : 1
+
+power : 1
+
+interest : 1
+
+open : 1
+
+republic : 2
+
+parts : 2
+
+stupid : 1
+
+situated : 1
+
+worsen : 1
+
+lash : 1
+
+president : 1
+
+terror : 1
+
+govern : 2
+
+bad : 2
+
+leader : 1
+
+address : 1
+
+perform : 1
+
+quite : 1
+
+commend : 1
+
+sit : 1
+
+brow : 1
+
+chance : 1
+
+girth : 1
+
+qualify : 1
+
+rich : 1
+
+treasure : 1
+
+sectarian : 1
+
+refuse : 1
+
+partial : 1
+
+national : 1
+
+temporal : 1
+
+alarm : 1
+
+action : 1
+
+explain : 1
+
+intent : 1
+
+inject : 1
+
+tens : 1
+
+billions : 1
+
+dollars : 1
+
+fund : 1
+
+bank : 1
+
+subscribe : 1
+
+share : 1
+
+instead : 1
+
+accord : 2
+
+reuse : 1
+
+resume : 1
+
+graduated : 1
+
+receive : 1
+
+serve : 2
+
+advice : 1
+
+begin : 1
+
+lot : 1
+
+bookmark : 2
+
+paper : 2
+
+edit : 1

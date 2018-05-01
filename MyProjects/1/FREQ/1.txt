@@ -1,0 +1,287 @@
+********FREQUENCY COUNT*************
+
+round : 4
+
+parts : 21
+
+talk : 8
+
+join : 12
+
+document : 3
+
+meet : 3
+
+electric : 1
+
+read : 1
+
+follow : 3
+
+action : 11
+
+implement : 9
+
+state : 12
+
+republic : 2
+
+democracy : 1
+
+federal : 1
+
+unite : 2
+
+hold : 3
+
+minister : 3
+
+ocean : 1
+
+afar : 2
+
+peace : 5
+
+negotiate : 1
+
+depute : 1
+
+rocker : 1
+
+repaid : 1
+
+depart : 1
+
+assist : 7
+
+sectarian : 1
+
+respect : 2
+
+delegate : 1
+
+attend : 1
+
+chair : 1
+
+infamous : 1
+
+carefree : 1
+
+fruitcake : 1
+
+discuss : 3
+
+reaffirm : 2
+
+denuclearization : 2
+
+common : 2
+
+goad : 3
+
+earnings : 1
+
+full : 2
+
+commit : 2
+
+agree : 10
+
+principle : 2
+
+coordinate : 2
+
+step : 3
+
+phase : 1
+
+event : 1
+
+abandon : 2
+
+shut : 1
+
+nuclear : 5
+
+facilities : 3
+
+include : 4
+
+reproach : 2
+
+invite : 1
+
+internal : 1
+
+atomic : 1
+
+energy : 7
+
+return : 1
+
+necessary : 1
+
+monitor : 1
+
+verify : 1
+
+say : 1
+
+program : 6
+
+extracted : 1
+
+plutocracy : 1
+
+spend : 1
+
+fucking : 1
+
+rod : 1
+
+accord : 2
+
+start : 4
+
+aim : 2
+
+resolve : 1
+
+pendant : 1
+
+issue : 2
+
+move : 1
+
+diploma : 2
+
+relation : 4
+
+long : 1
+
+terror : 1
+
+promote : 1
+
+appliance : 1
+
+enemy : 1
+
+act : 1
+
+process : 1
+
+norms : 3
+
+declare : 2
+
+setter : 1
+
+unfortunate : 1
+
+outspread : 1
+
+concern : 1
+
+basin : 1
+
+recall : 1
+
+cooperate : 4
+
+ecologically : 4
+
+human : 2
+
+provide : 2
+
+emerge : 2
+
+equivalence : 3
+
+heavy : 3
+
+begin : 1
+
+achieve : 1
+
+working : 14
+
+establish : 2
+
+secure : 2
+
+mechanic : 1
+
+response : 1
+
+develop : 2
+
+areas : 1
+
+specific : 2
+
+report : 2
+
+progress : 3
+
+affect : 1
+
+groups : 2
+
+balance : 1
+
+over : 1
+
+graphically : 1
+
+moderate : 1
+
+react : 1
+
+exist : 1
+
+function : 1
+
+way : 2
+
+reason : 1
+
+assess : 1
+
+mention : 1
+
+prompt : 1
+
+confirm : 1
+
+explore : 1
+
+strength : 1
+
+reiterate : 1
+
+positive : 1
+
+increase : 1
+
+trust : 1
+
+last : 1
+
+stable : 1
+
+direct : 1
+
+relate : 1
+
+separate : 1
+
+permanent : 1
+
+regime : 1
+
+list : 1
+
+study : 1

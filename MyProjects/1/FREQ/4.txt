@@ -1,0 +1,163 @@
+********FREQUENCY COUNT*************
+
+parts : 12
+
+talk : 10
+
+conclude : 1
+
+issue : 5
+
+president : 2
+
+state : 5
+
+nett : 1
+
+round : 5
+
+close : 1
+
+chair : 1
+
+read : 1
+
+follow : 1
+
+republic : 2
+
+democracy : 1
+
+federal : 1
+
+unite : 2
+
+hold : 3
+
+greasy : 1
+
+exhibit : 1
+
+join : 1
+
+goo : 1
+
+project : 1
+
+encounter : 1
+
+love : 1
+
+small : 1
+
+main : 1
+
+line : 1
+
+announce : 1
+
+multibillion : 1
+
+interact : 1
+
+lear : 1
+
+delegate : 2
+
+minister : 2
+
+ocean : 1
+
+afar : 2
+
+complement : 1
+
+depute : 1
+
+assist : 1
+
+sectarian : 1
+
+agree : 6
+
+start : 1
+
+discuss : 1
+
+substandard : 1
+
+use : 1
+
+positive : 1
+
+attitude : 1
+
+enhance : 1
+
+understand : 1
+
+position : 1
+
+differ : 1
+
+express : 2
+
+commit : 1
+
+denuclearization : 1
+
+will : 2
+
+spirit : 2
+
+respect : 1
+
+equal : 1
+
+consult : 1
+
+peace : 3
+
+setter : 1
+
+nuclear : 2
+
+dialog : 1
+
+maintain : 1
+
+stable : 1
+
+exist : 1
+
+coordinate : 1
+
+step : 1
+
+resolve : 1
+
+concern : 1
+
+continue : 1
+
+principle : 1
+
+working : 2
+
+prepare : 1
+
+function : 1
+
+decide : 1
+
+diploma : 1
+
+channel : 1
+
+subway : 1
+
+effort : 1
+
+gratify : 1
+
+accord : 1

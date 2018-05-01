@@ -1,0 +1,249 @@
+********FREQUENCY COUNT*************
+
+round : 7
+
+parts : 18
+
+talk : 10
+
+join : 7
+
+state : 11
+
+nett : 1
+
+agree : 6
+
+participate : 1
+
+age : 1
+
+report : 2
+
+photo : 1
+
+issue : 3
+
+read : 1
+
+follow : 2
+
+unite : 4
+
+hold : 2
+
+minister : 2
+
+ocean : 1
+
+afar : 2
+
+depute : 1
+
+official : 1
+
+time : 1
+
+response : 1
+
+assist : 2
+
+sectarian : 1
+
+respect : 5
+
+delegate : 1
+
+attend : 1
+
+meet : 2
+
+chair : 1
+
+peace : 6
+
+stable : 2
+
+way : 2
+
+spirit : 2
+
+equal : 1
+
+consult : 1
+
+based : 1
+
+carefree : 1
+
+pragmatic : 1
+
+reach : 1
+
+consent : 2
+
+unanimous : 1
+
+reaffirm : 3
+
+manner : 1
+
+achieve : 1
+
+verify : 1
+
+denuclearization : 3
+
+goad : 1
+
+commit : 6
+
+abandon : 1
+
+nuclear : 7
+
+weapon : 5
+
+exist : 1
+
+program : 2
+
+return : 1
+
+safe : 1
+
+affirm : 1
+
+convention : 1
+
+intent : 1
+
+attack : 1
+
+invade : 1
+
+basin : 2
+
+declare : 3
+
+brought : 1
+
+deploy : 1
+
+confirm : 1
+
+territory : 1
+
+observe : 1
+
+implement : 2
+
+use : 1
+
+energy : 3
+
+express : 1
+
+discuss : 1
+
+light : 1
+
+react : 1
+
+appropriate : 1
+
+purpose : 1
+
+principle : 2
+
+chart : 1
+
+universal : 1
+
+recognise : 1
+
+norms : 3
+
+govern : 1
+
+internal : 1
+
+relation : 4
+
+undertake : 3
+
+coeducation : 1
+
+accord : 2
+
+policy : 1
+
+step : 3
+
+setter : 1
+
+unfortunate : 1
+
+outspread : 1
+
+take : 1
+
+promote : 1
+
+multibillion : 1
+
+trade : 1
+
+invest : 1
+
+field : 1
+
+ecologically : 1
+
+cooperate : 2
+
+will : 1
+
+provide : 1
+
+provision : 1
+
+million : 1
+
+kilowatt : 1
+
+power : 1
+
+raise : 1
+
+effort : 1
+
+last : 1
+
+direct : 1
+
+relate : 1
+
+separate : 1
+
+establish : 1
+
+permanent : 1
+
+regime : 1
+
+explore : 1
+
+strength : 1
+
+secure : 1
+
+action : 2
+
+coordinate : 1
+
+afoot : 1
+
+phase : 1
+
+specific : 1

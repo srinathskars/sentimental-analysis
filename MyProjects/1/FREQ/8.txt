@@ -1,0 +1,243 @@
+********FREQUENCY COUNT*************
+
+win : 4
+
+nobble : 23
+
+peace : 19
+
+prize : 21
+
+nett : 3
+
+data : 2
+
+sour : 2
+
+commit : 7
+
+announce : 4
+
+award : 12
+
+accord : 3
+
+official : 1
+
+mess : 1
+
+local : 1
+
+minute : 1
+
+say : 1
+
+recognise : 5
+
+dedicate : 1
+
+solve : 1
+
+internal : 3
+
+conflict : 2
+
+make : 1
+
+importance : 1
+
+contribute : 4
+
+tradition : 1
+
+cerebrum : 2
+
+hold : 2
+
+physical : 1
+
+chemical : 1
+
+literal : 1
+
+economy : 1
+
+million : 3
+
+recent : 1
+
+achieve : 2
+
+follow : 1
+
+royal : 1
+
+academy : 1
+
+science : 1
+
+change : 3
+
+gore : 1
+
+unite : 2
+
+nation : 2
+
+cause : 1
+
+activity : 1
+
+relate : 1
+
+establish : 2
+
+promotion : 1
+
+grade : 1
+
+knowledge : 1
+
+basin : 1
+
+measure : 1
+
+tack : 1
+
+aspect : 1
+
+enormity : 1
+
+effort : 4
+
+bank : 1
+
+create : 1
+
+grameen : 3
+
+engage : 1
+
+microcosm : 4
+
+poor : 4
+
+credit : 2
+
+loan : 1
+
+limit : 1
+
+small : 1
+
+collar : 1
+
+warm : 1
+
+welcome : 1
+
+quick : 1
+
+extended : 1
+
+develop : 4
+
+country : 1
+
+effect : 1
+
+way : 1
+
+help : 1
+
+state : 1
+
+gradually : 1
+
+innovate : 1
+
+character : 1
+
+atomic : 1
+
+energy : 3
+
+age : 1
+
+directive : 1
+
+prevent : 1
+
+nuclear : 2
+
+military : 1
+
+purpose : 1
+
+sure : 1
+
+safe : 1
+
+share : 1
+
+honor : 1
+
+use : 1
+
+environment : 1
+
+sustain : 1
+
+main : 1
+
+leader : 1
+
+move : 2
+
+plant : 1
+
+tree : 1
+
+particle : 1
+
+woman : 2
+
+write : 1
+
+respect : 1
+
+child : 1
+
+fight : 1
+
+receive : 1
+
+cart : 2
+
+winner : 1
+
+decade : 1
+
+unremitting : 1
+
+soluble : 1
+
+promote : 2
+
+improve : 1
+
+ecologically : 1
+
+decide : 1
+
+join : 1
+
+sectarian : 1
+
+outspread : 1
+
+organic : 1
+
+individual : 1
+
+reconcile : 1

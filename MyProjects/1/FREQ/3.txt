@@ -1,0 +1,195 @@
+********FREQUENCY COUNT*************
+
+round : 12
+
+talk : 12
+
+president : 1
+
+state : 4
+
+parts : 20
+
+electric : 1
+
+announce : 1
+
+chair : 3
+
+declare : 2
+
+read : 1
+
+follow : 1
+
+survey : 1
+
+present : 1
+
+value : 1
+
+cyanide : 1
+
+recommend : 2
+
+meet : 4
+
+exhibit : 1
+
+open : 1
+
+republic : 2
+
+democracy : 1
+
+federal : 1
+
+unite : 2
+
+hold : 3
+
+delegate : 2
+
+minister : 2
+
+ocean : 1
+
+afar : 1
+
+assist : 2
+
+special : 1
+
+envoy : 1
+
+sectarian : 1
+
+preparation : 1
+
+working : 4
+
+plenary : 1
+
+session : 1
+
+concept : 1
+
+construct : 1
+
+pragmatic : 1
+
+substandard : 1
+
+discuss : 2
+
+consent : 1
+
+based : 2
+
+express : 1
+
+reaffirm : 1
+
+commit : 1
+
+achieve : 2
+
+common : 3
+
+goad : 2
+
+denuclearization : 2
+
+stress : 2
+
+measure : 3
+
+possibility : 2
+
+progress : 2
+
+manner : 1
+
+accord : 1
+
+word : 2
+
+action : 2
+
+principle : 2
+
+seek : 1
+
+peace : 2
+
+soluble : 2
+
+nuclear : 2
+
+issue : 2
+
+setter : 1
+
+suggest : 1
+
+idea : 2
+
+program : 1
+
+propose : 1
+
+welcome : 1
+
+note : 1
+
+late : 1
+
+work : 1
+
+use : 1
+
+basin : 1
+
+differ : 2
+
+necessary : 1
+
+depth : 1
+
+expand : 1
+
+narrow : 1
+
+agree : 2
+
+specific : 2
+
+diploma : 1
+
+channel : 1
+
+authorize : 1
+
+order : 1
+
+determine : 1
+
+scope : 1
+
+object : 1
+
+verify : 1
+
+correspond : 1
+
+appropriate : 1
+
+way : 1
+
+make : 1
+
+subway : 1
+
+effort : 1
+
+appreciate : 1

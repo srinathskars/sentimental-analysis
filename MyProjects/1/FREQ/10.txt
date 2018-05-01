@@ -1,0 +1,239 @@
+********FREQUENCY COUNT*************
+
+foot : 4
+
+release : 2
+
+blast : 2
+
+nett : 2
+
+hear : 1
+
+accord : 1
+
+report : 3
+
+govern : 1
+
+announce : 1
+
+incident : 1
+
+life : 1
+
+load : 1
+
+explosion : 7
+
+kill : 5
+
+wound : 1
+
+interior : 1
+
+senior : 1
+
+official : 1
+
+toiletry : 1
+
+conferred : 1
+
+show : 2
+
+secure : 12
+
+camera : 1
+
+capture : 1
+
+say : 4
+
+stop : 1
+
+barricade : 2
+
+attackers : 3
+
+argument : 1
+
+arrive : 1
+
+receive : 1
+
+emerge : 1
+
+ask : 1
+
+hijack : 1
+
+visit : 1
+
+patient : 1
+
+bomb : 1
+
+sniffle : 1
+
+unused : 1
+
+situated : 1
+
+guard : 2
+
+evacuate : 1
+
+drive : 3
+
+try : 5
+
+crap : 2
+
+retract : 1
+
+rail : 2
+
+previous : 2
+
+person : 2
+
+occur : 2
+
+crosscheck : 1
+
+picture : 1
+
+clear : 1
+
+barriers : 1
+
+backward : 1
+
+retreat : 2
+
+cockney : 2
+
+small : 1
+
+spread : 1
+
+rearward : 1
+
+porthole : 1
+
+truck : 2
+
+brought : 1
+
+extinguisher : 1
+
+effort : 1
+
+effect : 1
+
+screen : 1
+
+turn : 1
+
+take : 1
+
+make : 1
+
+victim : 1
+
+flies : 1
+
+glaring : 1
+
+build : 2
+
+lobby : 1
+
+appanage : 1
+
+persuade : 1
+
+refuse : 1
+
+request : 1
+
+blow : 1
+
+externals : 1
+
+explode : 1
+
+minute : 1
+
+disclose : 1
+
+police : 1
+
+office : 1
+
+paralyze : 1
+
+force : 1
+
+private : 1
+
+expect : 1
+
+investigate : 2
+
+tribal : 2
+
+areas : 2
+
+militant : 1
+
+border : 1
+
+active : 1
+
+base : 1
+
+condemn : 1
+
+organic : 1
+
+individual : 1
+
+clue : 1
+
+preliminary : 1
+
+reveal : 1
+
+terror : 2
+
+spend : 1
+
+kilogram : 1
+
+type : 1
+
+equipment : 1
+
+mortar : 1
+
+shell : 1
+
+mine : 1
+
+attacks : 1
+
+differ : 1
+
+use : 1
+
+fire : 1
+
+hit : 1
+
+exacerbate : 1
+
+explain : 1
+
+vintage : 1

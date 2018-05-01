@@ -1,0 +1,8 @@
+**************Emotion Words Count*********
+
+Joy______3
+Fear_____5
+Sadness__10
+Disgust__0
+Anger_____0
+Surprise__0

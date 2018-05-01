@@ -1,0 +1,9 @@
+@RELATION PROJECT
+@ATTRIBUTE enjoy NUMERIC
+@ATTRIBUTE happy NUMERIC
+@ATTRIBUTE run NUMERIC
+@ATTRIBUTE sad NUMERIC
+@ATTRIBUTE surprissed NUMERIC
+@ATTRIBUTE wonder NUMERIC
+@ATTRIBUTE classification{Joy,Surpries,Fear,Anger,Disguist,Sadness}
+@DATA
